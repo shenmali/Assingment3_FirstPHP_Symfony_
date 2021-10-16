@@ -18,12 +18,17 @@ Komutu kullanılabilir.
 
 | LARAVEL | SYMFONY                       |
 | :-------- |  :-------------------------------- |
-
 | Blade  sistemini kullanır.     | Twig  sistemini kullanır.  |
 | ORM için Eloquent  kullanılır    | ORM için Doctrine kullanılır  |
 | Daha popülerdir. Geliştirici / Kullanıcı sayısı daha fazladır    | Daha büyük projelerde kullanılması nedeniyle daha az popülerdir ve geliştirici sayısı daha azdır.|
 | LMySQL -PostgreSQL -SQLite -SQL Server  destekler   | MySQL -Oracle - SQL Server - PostgreSQL - SQLite - SAP Sybase SQL Anywhere-Drizzle  destekler |
 | Ayarlama için sadece PHP yi destekler     | PHP, YAML ve XML desteği bulunur.  |
+
+
+
+
+
+
 
 
 
